@@ -1,0 +1,104 @@
+ @font-face {
+  font-family: 'LCD2 Normal';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/font/LCDM2N__.woff') format('woff');
+  }
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calculator{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 17%;
+  height: 47%;
+  background-color: #181C38;
+  border-radius: 0.4rem;
+}
+
+.display{
+  display: flex;
+  height: 17%;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: end;
+  margin-bottom: 1rem;
+  background-color: #2E3566;
+  border-radius: 0.4rem;
+  padding: 0.1rem;
+  margin: 1rem;
+  font-family: 'LCD2 Normal';
+}
+.previousOperand .currentOperand{
+  display: flex;
+}
+.previousOperand{
+  font-size: small;
+  color: aliceblue;
+  margin-right: 2%;
+}
+
+.currentOperand{
+  color: aliceblue;
+  font-size: larger;
+  margin-right: 2%;
+}
+
+.buttonArea{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.buttonArea button{
+  width: 2.3rem;
+  height: 2.3rem;
+  border: solid 4px;
+  border-radius: 0.5rem;
+  background-color: #D7CBBD;
+  border-color: #F0E9E0 ;
+  color: #474040;
+  font-size: 1.2rem;
+  font-family: 'Turret Road', cursive;
+}
+
+.buttonArea .operand{
+  border-radius: 2rem;
+  align-items: center;
+  background-color: #5E5E64;
+  border-color: #6C6E7B;
+  color: white;
+}
+.buttonArea .equals{
+  background-color: #D37404;
+  border-color: #E29249;
+  color: white;
+}
+
+.buttonArea .largerButton{
+width: 4.8rem;
+}
+.buttonArea{
+  gap: 8px;
+}
+
+.changeTheme{
+  display: flex;
+  justify-content: end;
+  margin-right: 1rem;
+}
+
+.buttonTheme{
+width: 1.3rem;
+}
+
+.buttonArea .color{
+  background-color: #5E5E64;
+  border-color: #6C6E7B;
+  color: white;
+}

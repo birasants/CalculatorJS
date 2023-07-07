@@ -6,43 +6,54 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <script src="/Calc.js" defer></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Turret+Road&display=swap" rel="stylesheet">
   <title>Calculator</title>
 </head>
 
 <body>
-  <div class="calculator">
-    <div class="display">
-      <div class="previousOperand"></div>
-      <div class="currentOperand"></div>
+  <div class="container">
+    <div class="calculator">
+      <div class="display">
+        <div class="previousOperand">22</div>
+        <div class="currentOperand">0909</div>
+      </div>
+      <div class="changeTheme">
+        <img src="/img/dark-theme-svgrepo-com.svg" alt="theme" class="buttonTheme">
+      </div>
+      <div class="buttonArea">
+        <section>
+          <button class="largerButton color">AC</button>
+          <button class="color">C</button>
+          <button class="operand">÷</button>
+        </section>
+        <section>
+          <button>7</button>
+          <button>8</button>
+          <button>9</button>
+          <button class="operand">x</button>
+        </section>
+        <section>
+          <button>4</button>
+          <button>5</button>
+          <button>6</button>
+          <button class="operand">-</button>
+        </section>
+        <section>
+          <button>1</button>
+          <button>2</button>
+          <button>3</button>
+          <button class="operand">+</button>
+        </section>
+        <section>
+          <button class="largerButton">0</button>
+          <button>.</button>
+          <button class="operand equals">=</button>
+        </section>
+      </div>
     </div>
-    <section>
-      <button>AC</button>
-      <button>C</button>
-      <button>÷</button>
-    </section>
-    <section>
-      <button>7</button>
-      <button>8</button>
-      <button>9</button>
-      <button>x</button>
-    </section>
-    <section>
-      <button>4</button>
-      <button>5</button>
-      <button>6</button>
-      <button>-</button>
-    </section>
-    <section>
-      <button>1</button>
-      <button>2</button>
-      <button>3</button>
-      <button>+</button>
-    </section>
-    <section>
-      <button>0</button>
-      <button>.</button>
-      <button>=</button>
-    </section>
   </div>
 </body>
+
 </html>
