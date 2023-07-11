@@ -16,40 +16,40 @@
   <div class="container">
     <div class="calculator">
       <div class="display">
-        <div class="previousOperand">22</div>
-        <div class="currentOperand">0909</div>
+        <div class="previousOperand" data-displayPrevious></div>
+        <div class="currentOperand" data-currentOperand></div>
       </div>
       <div class="changeTheme">
         <img src="/img/dark-theme-svgrepo-com.svg" alt="theme" class="buttonTheme">
       </div>
       <div class="buttonArea">
         <section>
-          <button class="largerButton color">AC</button>
-          <button class="color">C</button>
-          <button class="operand">÷</button>
+          <button class="largerButton color" data-allClear>AC</button>
+          <button class="color" data-clear>C</button>
+          <button class="operand" data-operand>÷</button>
         </section>
         <section>
-          <button>7</button>
-          <button>8</button>
-          <button>9</button>
-          <button class="operand">x</button>
+          <button data-number>7</button>
+          <button data-number>8</button>
+          <button data-number>9</button>
+          <button class="operand" data-operand>x</button>
         </section>
         <section>
-          <button>4</button>
-          <button>5</button>
-          <button>6</button>
-          <button class="operand">-</button>
+          <button data-number>4</button>
+          <button data-number>5</button>
+          <button data-number>6</button>
+          <button class="operand" data-operand>-</button>
         </section>
         <section>
-          <button>1</button>
-          <button>2</button>
-          <button>3</button>
-          <button class="operand">+</button>
+          <button data-number>1</button>
+          <button data-number>2</button>
+          <button data-number>3</button>
+          <button class="operand" data-operand>+</button>
         </section>
         <section>
-          <button class="largerButton">0</button>
-          <button>.</button>
-          <button class="operand equals">=</button>
+          <button class="largerButton" data-number>0</button>
+          <button data-number>.</button>
+          <button class="operand equals" data-equals>=</button>
         </section>
       </div>
     </div>

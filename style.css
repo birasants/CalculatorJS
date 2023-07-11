@@ -15,10 +15,11 @@
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  width: 17%;
-  height: 47%;
+  width: 18rem;
+  height: 65%;
   background-color: #181C38;
   border-radius: 0.4rem;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .display{
@@ -33,6 +34,7 @@
   padding: 0.1rem;
   margin: 1rem;
   font-family: 'LCD2 Normal';
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 .previousOperand .currentOperand{
   display: flex;
@@ -101,4 +103,25 @@ width: 1.3rem;
   background-color: #5E5E64;
   border-color: #6C6E7B;
   color: white;
+}
+
+.buttonArea button{
+opacity: 1;
+-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.buttonArea button:hover{
+  opacity: .5;
+}
+
+@media (max-width:600px) {
+  .calculator{
+    height: 50%;
+  }
+}
+@media (min-width: 700px) and (max-width: 900px) {
+  .calculator{
+    height: 45%;
+  }
 }
