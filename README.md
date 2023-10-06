@@ -23,7 +23,7 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 
 ### Mobile
 
-<img src="https://placehold.co/200x400" />
+<img src="Screenshot 2023-10-06 191515.png" />
 
 
 ### Contribua com o projeto
