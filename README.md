@@ -41,13 +41,13 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 
 ### Contribuidores
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
+<a href="https://github.com/birasants">
+<img src="https://avatars.githubusercontent.com/u/113365850?v=4" width="70px" />
 
 ### Autor
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
+<a href="https://github.com/birasants">
+<img src="https://avatars.githubusercontent.com/u/113365850?v=4" width="70px" />
 </a>
 
 [Licenca MIT License](http://creativecommons.org/licenses/by)
