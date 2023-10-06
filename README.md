@@ -1,10 +1,10 @@
 # Calculadora:
+Bem-vindo ao projeto de calculadora interativa desenvolvida com HTML, CSS e JavaScript! Esta calculadora moderna e responsiva foi criada utilizando tecnologias web avançadas para proporcionar uma experiência de usuário intuitiva e amigável.
 
-Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur voluptate enim excepteur eu non sit. Mollit irure occaecat culpa occaecat est labore incididunt.
 
-<img src="https://img.shields.io/github/stars/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-closed/jessicamedeirosp/PROJETO-CSS?style=social">
+<img src="https://img.shields.io/github/stars/birasants/CalculatorJS?style=social">
+<img src="https://img.shields.io/github/issues-pr-raw/birasants/CalculatorJS?style=social">
+<img src="https://img.shields.io/github/issues-closed/birasants/CalculatorJS?style=social">
 
 
 ### Linguagens e Ferramentas
@@ -49,5 +49,8 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 <a href="https://github.com/birasants">
 <img src="https://avatars.githubusercontent.com/u/113365850?v=4" width="70px" />
 </a>
+<br>
+<br/>
+Sinta-se à vontade para explorar e integrar esta calculadora em seu projeto. Espero que ela torne suas operações matemáticas mais fáceis e agradáveis!
 
-[Licenca MIT License](http://creativecommons.org/licenses/by)
+Divirta-se calculando! 🧮✨
