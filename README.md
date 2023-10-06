@@ -19,7 +19,7 @@ Bem-vindo ao projeto de calculadora interativa desenvolvida com HTML, CSS e Java
 
 ### Desktop
 
-<img src="Screenshot 2023-10-06 191801.png"/>
+<img src="GIFMaker_me.gif"/>
 
 ### Mobile
 
