@@ -19,7 +19,7 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 
 ### Desktop
 
-<img src="https://placehold.co/400x200"/>
+<img src="Screenshot 2023-10-06 191801.png"/>
 
 ### Mobile
 
@@ -34,26 +34,15 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 
 ### Fucionalidades do Projeto
 
-- [x] Funcionalidade 1
-- [x] Funcionalidade 2
-- [x] Funcionalidade 3
-- [ ] Funcionalidade 4
-- [ ] Funcionalidade 5
+- [x] Calcular qualquer valor;
+- [x] Realizar as operações básicas da matemática;
+- [x] Possuir um Display Funcional;
+- [ ] Ter Modo Claro.
 
 ### Contribuidores
 
 <a href="https://github.com/jessicamedeirosp">
 <img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
 
 ### Autor
 
